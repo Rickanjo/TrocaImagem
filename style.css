@@ -1,0 +1,8 @@
+#imagemExibida {
+    margin-top: 50px;
+    min-width: 600px;
+    min-height: 450px;
+    max-width: 600px;
+    max-height: 450px;
+    text-align: center;
+}
